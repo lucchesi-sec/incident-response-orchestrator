@@ -1,6 +1,6 @@
 # Incident Response Automation Suite
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue) ![SIEM](https://img.shields.io/badge/Platform-Enterprise-orange) ![Security](https://img.shields.io/badge/Focus-Incident%20Response-red) ![License](https://img.shields.io/badge/License-MIT-green) ![Version](https://img.shields.io/badge/Version-1.0.0-purple)
+![Python](https://img.shields.io/badge/Python-3.9+-blue) ![Platform](https://img.shields.io/badge/Platform-Security%20Automation-orange) ![Security](https://img.shields.io/badge/Focus-Incident%20Response-red) ![License](https://img.shields.io/badge/License-MIT-green) ![Version](https://img.shields.io/badge/Version-1.0.0-purple)
 
 Comprehensive incident response automation platform for threat detection, analysis, and automated response capabilities.
 
